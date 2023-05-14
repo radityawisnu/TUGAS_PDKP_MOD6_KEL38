@@ -224,7 +224,7 @@ class ScientificCalculator(Kalkulator):
 
             else: 
 
-                print("Pembagian dengan nol kaga bisa") 
+                print("Pembagian dengan nol kaga bisa cuy") 
 
                 result = 0 
 
