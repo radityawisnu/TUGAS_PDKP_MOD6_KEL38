@@ -1,6 +1,6 @@
 import math 
 
-#parent class kalkulator 
+#parent class kalkulator
 
 class Kalkulator: 
 
