@@ -168,7 +168,7 @@ class ScientificCalculator(Kalkulator):
 
         else: 
 
-            print("Operator salah cuy") 
+            print("Operatornya salah cuy") 
 
         return result 
     
